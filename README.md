@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-logic.
+
 # think-logic
 
 [![Build Status](https://img.shields.io/travis/thinkjs/think-logic/master.svg?style=flat-square)](https://travis-ci.org/thinkjs/think-logic)
